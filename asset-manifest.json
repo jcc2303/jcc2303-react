@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/jcc2303-react/static/css/main.615521c1.chunk.css",
+    "main.js": "/jcc2303-react/static/js/main.5f18fd81.chunk.js",
+    "main.js.map": "/jcc2303-react/static/js/main.5f18fd81.chunk.js.map",
+    "runtime-main.js": "/jcc2303-react/static/js/runtime-main.1fb2cd87.js",
+    "runtime-main.js.map": "/jcc2303-react/static/js/runtime-main.1fb2cd87.js.map",
+    "static/js/2.8d116e22.chunk.js": "/jcc2303-react/static/js/2.8d116e22.chunk.js",
+    "static/js/2.8d116e22.chunk.js.map": "/jcc2303-react/static/js/2.8d116e22.chunk.js.map",
+    "index.html": "/jcc2303-react/index.html",
+    "precache-manifest.49b070d1024c71da149b09fef66093db.js": "/jcc2303-react/precache-manifest.49b070d1024c71da149b09fef66093db.js",
+    "service-worker.js": "/jcc2303-react/service-worker.js",
+    "static/css/main.615521c1.chunk.css.map": "/jcc2303-react/static/css/main.615521c1.chunk.css.map",
+    "static/js/2.8d116e22.chunk.js.LICENSE.txt": "/jcc2303-react/static/js/2.8d116e22.chunk.js.LICENSE.txt",
+    "static/media/arrow-alt-circle-down.6c46e584.svg": "/jcc2303-react/static/media/arrow-alt-circle-down.6c46e584.svg",
+    "static/media/bars.5e9fe169.svg": "/jcc2303-react/static/media/bars.5e9fe169.svg",
+    "static/media/close.b1f2a762.svg": "/jcc2303-react/static/media/close.b1f2a762.svg",
+    "static/media/hearth.01414b2f.svg": "/jcc2303-react/static/media/hearth.01414b2f.svg",
+    "static/media/logo.svg": "/jcc2303-react/static/media/logo.1d72ad51.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1fb2cd87.js",
+    "static/js/2.8d116e22.chunk.js",
+    "static/css/main.615521c1.chunk.css",
+    "static/js/main.5f18fd81.chunk.js"
+  ]
+}
